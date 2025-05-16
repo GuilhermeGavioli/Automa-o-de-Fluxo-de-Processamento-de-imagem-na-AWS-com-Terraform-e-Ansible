@@ -64,7 +64,7 @@ transferencia.
 </br>
 <h1>Demo - GUI</h1>
 
-[demo-gui.webm](./demo-videos/demo-gui.webm)
+[demo-gui.webm](https://github.com/user-attachments/assets/a4843ec0-33ef-4c84-b9b9-3fb380ec3962)
 
 </br>
 <h1>Demo - Construindo e Configurando a Infraestrutura</h1>
@@ -75,7 +75,7 @@ transferencia.
 </br>
 <h1>Demo - Destruindo a Infraestrutura</h1>
 
-[demo-desterraformar.mov](./demo-videos/demo-desterraformar.mov)
+[demo-desterraformar.mov](https://github.com/user-attachments/assets/a4f32299-ade8-4cea-9cd3-72eee78c1ba0)
 
 
 </br>

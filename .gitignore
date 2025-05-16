@@ -1,0 +1,7 @@
+/lambda/nodejs/nodejs-image-processing.zip
+/lambda/nodejs/node_modules
+/terraform/nodejs-image-processing.zip
+/terraform/.terraform
+/terraform/terraform.tfstate
+/terraform/terraform.tfstate.backup
+

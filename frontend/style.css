@@ -1,0 +1,32 @@
+ *{
+    padding: 0;
+    margin: 0;
+}
+
+   #fileInput {
+      display: none;
+    } 
+
+        #start-btn{
+        display: none;
+    }
+
+    #authing, #authenticated, #processing{
+        display: none;
+    }
+
+    #progress-area{
+        display: none;
+        flex-direction: column;
+        width: 210px;
+        height: 100px;
+        overflow-y: scroll;
+        padding: 0;
+    }
+
+   
+    button[for="fileInput"] {
+
+    }
+
+

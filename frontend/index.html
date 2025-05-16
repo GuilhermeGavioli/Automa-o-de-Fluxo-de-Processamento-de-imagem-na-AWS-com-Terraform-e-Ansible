@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main-container">
+
+        <div id="mid-container">
+            <img id="preview" alt="" />
+            <br>
+            <button onclick="auth()" id="auth-btn">auth</button>
+            <button id="uploadBtn" for="fileInput">Upload Image</button>
+            <input id="fileInput" type="file" id="fileInput" accept="image/jpeg">
+            <button id="start-btn" onclick="uploadImage()">Start Process</button>
+            <br>
+            <p id="authing">authing...</p>
+            <p id="authenticated">✅ authenticated</p>
+            <p id="processing">processing...</p>
+            <br><br>
+            <div id="progress-area">
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

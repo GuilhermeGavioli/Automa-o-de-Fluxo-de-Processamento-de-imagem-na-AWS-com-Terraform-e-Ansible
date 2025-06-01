@@ -3,7 +3,7 @@
 a partir de um unico script shell usando Terraform e Ansible (./Shell/terraformar.sh).</p>
 </br>
 <h1>Projeto</h1>
-<p>Fluxo que autentica (simula autenticação, existe uma rota que envia um token sem verificar de fato as credenciais, o token serve para requisitar S3 pre signed URLs), recebe, processa (no caso, a Lambda apenas redimensiona e adiciona grayscale) e devolve a imagem processada ao usuário para download.</p>
+<p>Fluxo que autentica (simula autenticação, existe uma rota que envia um token sem verificar de fato as credenciais, o token serve para requisitar S3 pre signed URLs), recebe, processa (no caso, a Lambda apenas redimensiona e adiciona grayscale) e devolve a imagem processada ao usuário para download (uma S3 pre signed GET URL para o objeto daquele usuario).</p>
 </br>
 <h1>Ferramentas</h1>
 

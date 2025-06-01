@@ -1,6 +1,6 @@
 <h1>Objetivo</h1>
 <p>Automatizar o provisionamento e configuração de toda infraestrutura da nuvem AWS necessaria para o projeto
-a partir de um unico script shell usando Terraform e Ansible.</p>
+a partir de um unico script shell usando Terraform e Ansible (./Shell/terraformar.sh).</p>
 </br>
 <h1>Projeto</h1>
 <p>Fluxo que autentica, recebe, processa e devolve a imagem processada ao usuário para download.</p>
